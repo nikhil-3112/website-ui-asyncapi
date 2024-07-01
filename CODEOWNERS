@@ -10,9 +10,9 @@
 # All .md files
 *.md @alequetzalli @asyncapi-bot-eve
 
-pages/blog/*.md @thulieblack @alequetzalli
-pages/community/*.md @thulieblack @alequetzalli
+markdown/blog/*.md @thulieblack @alequetzalli
+markdown/community/*.md @thulieblack @alequetzalli
 
 README.md @alequetzalli @derberg @akshatnema @magicmatatjahu @mayaleeeee @asyncapi-bot-eve
-#docTriagers: TRohit20 octonawish-akcodes BhaswatiRoy VaishnaviNandakumar J0SAL
+#docTriagers: TRohit20 BhaswatiRoy VaishnaviNandakumar J0SAL
 #codeTriagers: sambhavgupta0705
